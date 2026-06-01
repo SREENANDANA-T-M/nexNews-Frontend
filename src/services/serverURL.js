@@ -1,0 +1,1 @@
+export const ServerURL="https://nexnews-backend.onrender.com"
