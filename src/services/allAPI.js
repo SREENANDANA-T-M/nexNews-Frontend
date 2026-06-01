@@ -1,6 +1,5 @@
 import commonAPI from "./commonAPI";
-import { ServerURL } from "./ServerURL";
-
+import { ServerURL } from "./serverURL";
 // Admin Login
 
 export const loginAPI = async (reqBody) => {

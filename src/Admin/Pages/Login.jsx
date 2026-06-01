@@ -1,8 +1,7 @@
 import { FaNewspaper } from "react-icons/fa";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { loginAPI } from "../../Services/allAPI";
-
+import { loginAPI } from "../../services/allAPI";
 function Login() {
   const navigate = useNavigate();
 
